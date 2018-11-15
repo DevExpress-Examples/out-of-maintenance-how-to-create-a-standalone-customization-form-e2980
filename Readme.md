@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/DXPivotGrid_StandaloneFieldList/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXPivotGrid_StandaloneFieldList/MainWindow.xaml))
+<!-- default file list end -->
 # How to create a standalone Customization Form
 
 
