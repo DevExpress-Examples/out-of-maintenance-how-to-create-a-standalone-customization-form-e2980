@@ -1,9 +1,9 @@
-﻿Imports Microsoft.VisualBasic
-Imports System.Windows
+﻿Imports System.Windows
 
 Namespace DXPivotGrid_StandaloneFieldList
 	Partial Public Class MainWindow
 		Inherits Window
+
 		Public Sub New()
 			InitializeComponent()
 			pivotGridControl1.DataSource = (New DataSet1TableAdapters.SalesPersonTableAdapter()).GetData()
